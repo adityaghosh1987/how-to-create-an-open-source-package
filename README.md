@@ -1,5 +1,5 @@
-# how-to-create-open-source-package
-This steps will help you to create open source project
+# how-to-create-an-open-source-package
+## Bellow steps will help you to create an open source project
 
 ##Steps for npm package registration:
 1. npm init
